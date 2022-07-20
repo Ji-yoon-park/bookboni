@@ -210,6 +210,7 @@ pre {
 #fh5co-main-nav #fh5co-nav {
   position: relative;
   width: 100%;
+  font-weight: bolder;
 }
 @media screen and (max-width: 768px) {
   #fh5co-main-nav {
