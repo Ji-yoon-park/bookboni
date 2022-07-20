@@ -10,15 +10,14 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-family: 'themify';
   font-family: 'Gowun Dodum', sans-serif;
   font-family: 'IBM Plex Sans KR', sans-serif;
-  font-family: 'Questrial', sans-serif;
   src: url("../fonts/themify/themify.eot?-fvbane");
   src: url("../fonts/themify/themify.eot?#iefix-fvbane") format("embedded-opentype"), url("../fonts/themify/themify.woff?-fvbane") format("woff"), url("../fonts/themify/themify.ttf?-fvbane") format("truetype"), url("../fonts/themify/themify.svg?-fvbane#themify") format("svg");
-  src: url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=IBM+Plex+Sans+KR:wght@200;300;400;500;600;700&family=Questrial&display=swap');
+  src: url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=IBM+Plex+Sans+KR:wght@200;300;400;500;600;700&display=swap');
   font-weight: normal;
   font-style: normal;
 }
 body {
-  font-family: "PT Mono", sans-serif
+  font-family: "themify", sans-serif
   font-family: 'IBM Plex Sans KR', sans-serif;
   font-size: 16px;
   line-height: 26px;
@@ -80,7 +79,7 @@ figure.fh5co-with-caption figcaption {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin: 0 0 20px 0;
   padding: 0;
-  font-family: "PT Mono", sans-serif;
+  font-family: "themify", sans-serif;
   font-weight: 400;
   color: #000000;
 }
@@ -750,7 +749,7 @@ pre {
 
 /* Buttons */
 .btn {
-  font-family: "PT Mono", sans-serif;
+  font-family: "themify", sans-serif;
   border-bottom: none !important;
   text-transform: uppercase;
   letter-spacing: 2px;
