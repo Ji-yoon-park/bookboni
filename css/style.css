@@ -24,17 +24,17 @@ body {
 
 ::-webkit-selection {
   color: #ffffff;
-  background: #1d2dfd;
+  background: #51ffa6;
 }
 
 ::-moz-selection {
   color: #ffffff;
-  background: #1d2dfd;
+  background: #51ffa6;
 }
 
 ::selection {
   color: #ffffff;
-  background: #1d2dfd;
+  background: #51ffa6;
 }
 
 a {
@@ -43,7 +43,7 @@ a {
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  color: #1d2dfd;
+  color: #51ffa6;
   border-bottom: 2px solid transparent;
 }
 a:hover, a:active, a:focus {
@@ -53,7 +53,7 @@ a:hover, a:active, a:focus {
 }
 a:hover {
   color: #7b7b7b;
-  border-bottom: 2px solid #1d2dfd;
+  border-bottom: 2px solid #51ffa6;
 }
 
 figure.fh5co-with-caption {
@@ -247,7 +247,7 @@ pre {
 }
 #fh5co-main-nav ul > li.fh5co-active a {
   color: #7c7c7c;
-  border-bottom: 2px solid #1d2dfd;
+  border-bottom: 2px solid #51ffa6;
 }
 #fh5co-main-nav ul > li:last-child {
   margin: 0;
@@ -701,12 +701,12 @@ pre {
 }
 .owl-theme .owl-dots .owl-dot span:hover {
   background: none;
-  border: 2px solid #1d2dfd;
+  border: 2px solid #51ffa6;
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: none;
-  border: 2px solid #1d2dfd;
+  border: 2px solid #51ffa6;
 }
 
 .quote {
@@ -784,8 +784,8 @@ pre {
 }
 
 .btn-primary {
-  background: #1d2dfd;
-  border: 2px solid #1d2dfd;
+  background: #51ffa6;
+  border: 2px solid #51ffa6;
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
   background: #0213f4;
@@ -838,7 +838,7 @@ pre {
 .form-control:hover, .form-control:focus, .form-control:active {
   outline: none;
   box-shadow: none !important;
-  border: 2px solid #1d2dfd;
+  border: 2px solid #51ffa6;
 }
 
 .fh5co-spacer {
@@ -923,7 +923,7 @@ pre {
   left: 0;
   width: 30px;
   height: 2px;
-  background: #1d2dfd;
+  background: #51ffa6;
 }
 
 .form-group {
@@ -935,7 +935,7 @@ pre {
 }
 
 .fh5co-call-to-action {
-  background-color: #1d2dfd;
+  background-color: #51ffa6;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -988,7 +988,7 @@ pre {
   cursor: pointer;
 }
 .fh5co-accordion .panel-heading .accordion-toggle {
-  color: #1d2dfd;
+  color: #51ffa6;
 }
 .fh5co-accordion .panel-heading .accordion-toggle:after {
   font-family: 'themify';
@@ -1046,7 +1046,7 @@ pre {
   border-radius: 30px;
 }
 .progress-bar.progress-bar-default {
-  background: #1d2dfd;
+  background: #51ffa6;
 }
 .progress-bar.progress-bar-success {
   background: #00e195;
@@ -1146,7 +1146,7 @@ a > img.fh5co-align-center {
 }
 
 .resp-tab-active {
-  color: #1d2dfd;
+  color: #51ffa6;
 }
 
 .resp-tabs-list li {
@@ -1193,7 +1193,7 @@ a > img.fh5co-align-center {
   padding: 1em 2em;
 }
 .fh5co-pricing-table-1 .fh5co-pricing-table-item .fh5co-pricing-table-item-heading {
-  background: #1d2dfd;
+  background: #51ffa6;
 }
 .fh5co-pricing-table-1 .fh5co-pricing-table-item .fh5co-pricing-table-item-heading h3 {
   font-size: 70px;
@@ -1217,7 +1217,7 @@ a > img.fh5co-align-center {
   text-transform: uppercase;
 }
 .fh5co-pricing-table-1 .fh5co-pricing-table-item.fh5co-best-offer .fh5co-pricing-table-item-heading {
-  background: #1d2dfd;
+  background: #51ffa6;
   color: #ffffff;
 }
 .fh5co-pricing-table-1 .fh5co-pricing-table-item .fh5co-pricing-table-item-body {
@@ -1234,7 +1234,7 @@ a > img.fh5co-align-center {
   margin: 0 0 10px 0;
 }
 .fh5co-pricing-table-1 .fh5co-pricing-table-item.fh5co-best-offer .fh5co-pricing-table-item-body {
-  border: 2px solid #1d2dfd;
+  border: 2px solid #51ffa6;
   border-top: none;
 }
 
