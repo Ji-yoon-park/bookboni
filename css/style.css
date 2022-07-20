@@ -521,19 +521,22 @@ pre {
   padding: 0;
   margin: 0 0 2em 0;
   text-align: center;
+  vertical-align: middle;
 }
-#fh5co-footer .fh5co-footer-socialli {
+#fh5co-footer .fh5co-footer-social li {
   display: inline;
   font-size: 16px;
   list-style: none;
   padding: 0;
   margin: 0;
   text-align: center;
+  vertical-align: middle;
 }
 @media screen and (max-width: 480px) {
   #fh5co-footer .fh5co-footer-social li {
     display: block;
     margin-bottom: 10px;
+    vertical-align: middle;
   }
 }
 #fh5co-footer .fh5co-footer-social li a {
@@ -541,11 +544,13 @@ pre {
   padding: 4px 0;
   margin: 0 10px 0 0;
   text-align: center;
+  vertical-align: middle;
 }
 #fh5co-footer .fh5co-copyright {
   color: #7b7b7b;
   font-size: 15px;
   text-align: center;
+  vertical-align: middle;
 }
 
 .fh5co-more-works {
