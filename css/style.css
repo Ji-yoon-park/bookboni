@@ -528,6 +528,7 @@ pre {
   list-style: none;
   padding: 0;
   margin: 0;
+  text-align: center;
 }
 @media screen and (max-width: 480px) {
   #fh5co-footer .fh5co-footer-social li {
@@ -539,6 +540,7 @@ pre {
   color: #7c7c7c;
   padding: 4px 0;
   margin: 0 10px 0 0;
+  text-align: center;
 }
 #fh5co-footer .fh5co-copyright {
   color: #7b7b7b;
