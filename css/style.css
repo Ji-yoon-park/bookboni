@@ -8,8 +8,12 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 */
 @font-face {
   font-family: 'themify';
+  font-family: 'Gowun Dodum', sans-serif;
+  font-family: 'IBM Plex Sans KR', sans-serif;
+  font-family: 'Questrial', sans-serif;
   src: url("../fonts/themify/themify.eot?-fvbane");
   src: url("../fonts/themify/themify.eot?#iefix-fvbane") format("embedded-opentype"), url("../fonts/themify/themify.woff?-fvbane") format("woff"), url("../fonts/themify/themify.ttf?-fvbane") format("truetype"), url("../fonts/themify/themify.svg?-fvbane#themify") format("svg");
+  src: url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=IBM+Plex+Sans+KR:wght@100;200;300;400;500;600;700&family=Questrial&display=swap');
   font-weight: normal;
   font-style: normal;
 }
