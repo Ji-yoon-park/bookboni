@@ -315,6 +315,7 @@ pre {
 @media screen and (max-width: 768px) {
   #fh5co-intro .fh5co-intro-sub {
     margin: 1em 0;
+    color: #000000;
     text-align: left;
   }
 }
