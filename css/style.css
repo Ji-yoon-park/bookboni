@@ -196,8 +196,9 @@ pre {
 #fh5co-header #fh5co-logo {
   float: left;
   position: relative;
-  z-index: 50;
+  z-index: 102;
   display: block;
+  width: 30%;
 }
 
 #fh5co-main-nav {
