@@ -526,7 +526,7 @@ pre {
 #fh5co-footer .fh5co-footer-social {
   padding: 0;
   margin: 0 0 2em 0;
-  text-align: right;
+  text-align: center;
   vertical-align: middle;
 }
 #fh5co-footer .fh5co-footer-social li {
@@ -535,7 +535,7 @@ pre {
   list-style: none;
   padding: 0;
   margin: 0;
-  text-align: right;
+  text-align: center;
   vertical-align: middle;
 }
 @media screen and (max-width: 480px) {
