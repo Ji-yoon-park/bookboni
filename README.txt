@@ -1,10 +1,10 @@
 
-TITLE: 
-Work - Responsive Free HTML5 template
+TITLE:
+Publishing Brand BOOKBONI
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
+DESIGNED & DEVELOPED by Park JIyoon
+http://instagram.com/frombookboni
 
 
 CREDITS:
@@ -43,7 +43,7 @@ Icomoon Icons
 https://icomoon.io/
 
 Easy Responsive Tabs
-Samson.Onna <Email : samson3d@gmail.com> 
+Samson.Onna <Email : samson3d@gmail.com>
 
 FastClick
 https://github.com/ftlabs/fastclick
@@ -54,6 +54,3 @@ https://developers.google.com/maps/?hl=en
 
 
 * Don't forget to share it with your friends. Thanks! :)
-
-
-
